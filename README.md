@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SpyridoulaSp
-- 👀 I’m interested in Data Science, and therefore, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning anything that has to do with data science and machine learning models
-- 📫 How to reach me: you can send me a message here 
+- Hi, I’m @SpyridoulaSp
+- I’m interested in Data Science, and therefore, Machine Learning and Artificial Intelligence
+- I’m currently working as a Data Scientist Trainee and learning anything that has to do with Data Science and Machine Learning models
 
 <!---
 SpyridoulaSp/SpyridoulaSp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
